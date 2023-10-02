@@ -1,0 +1,14 @@
+I:\Laborator\lab_2\Task_2\bin\Debug\net6.0\Task_2.exe
+I:\Laborator\lab_2\Task_2\bin\Debug\net6.0\Task_2.deps.json
+I:\Laborator\lab_2\Task_2\bin\Debug\net6.0\Task_2.runtimeconfig.json
+I:\Laborator\lab_2\Task_2\bin\Debug\net6.0\Task_2.dll
+I:\Laborator\lab_2\Task_2\bin\Debug\net6.0\Task_2.pdb
+I:\Laborator\lab_2\Task_2\obj\Debug\net6.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+I:\Laborator\lab_2\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfoInputs.cache
+I:\Laborator\lab_2\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfo.cs
+I:\Laborator\lab_2\Task_2\obj\Debug\net6.0\Task_2.csproj.CoreCompileInputs.cache
+I:\Laborator\lab_2\Task_2\obj\Debug\net6.0\Task_2.dll
+I:\Laborator\lab_2\Task_2\obj\Debug\net6.0\refint\Task_2.dll
+I:\Laborator\lab_2\Task_2\obj\Debug\net6.0\Task_2.pdb
+I:\Laborator\lab_2\Task_2\obj\Debug\net6.0\Task_2.genruntimeconfig.cache
+I:\Laborator\lab_2\Task_2\obj\Debug\net6.0\ref\Task_2.dll
